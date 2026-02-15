@@ -1,0 +1,24 @@
+{
+  "name": "next-todolist",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/weightle55/next-todo.git",
+  "author": "weightle55 <metalicboots@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^16.1.6",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.0.0",
+    "eslint-plugin-react": "^7.37.5",
+    "globals": "^17.3.0"
+  }
+}
